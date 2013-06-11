@@ -216,6 +216,17 @@
                 <member segment="0"/>
             </segmentGroup>
             
+            <segmentGroup id="dendrite_group">
+                <member segment="0"/>
+                <member segment="0"/>
+                <member segment="0"/>
+            </segmentGroup>
+            
+            <segmentGroup id="all">
+                <include segmentGroup="soma_group"/>
+                <include segmentGroup="dendrite_group"/>
+            </segmentGroup>
+            
 
         </morphology>
     </cell>
