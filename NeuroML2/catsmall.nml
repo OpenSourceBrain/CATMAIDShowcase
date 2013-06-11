@@ -211,60 +211,7 @@
                 <distal y="3.587118e+02" x="4.486769e+02" z="1.890000e+01" diameter="1"/>
             </segment>
             
-            
-            <segmentGroup id="soma_group">
-                <member segment="0"/>
-            </segmentGroup>
-            
-            <segmentGroup id="dendrite_group">
-                <member segment="3"/>
-                <member segment="4"/>
-                <member segment="5"/>
-                <member segment="6"/>
-                <member segment="7"/>
-                <member segment="8"/>
-                <member segment="9"/>
-                <member segment="10"/>
-                <member segment="11"/>
-                <member segment="12"/>
-                <member segment="13"/>
-                <member segment="14"/>
-                <member segment="15"/>
-                <member segment="16"/>
-                <member segment="17"/>
-                <member segment="18"/>
-                <member segment="19"/>
-                <member segment="20"/>
-                <member segment="21"/>
-                <member segment="22"/>
-                <member segment="23"/>
-                <member segment="24"/>
-                <member segment="25"/>
-                <member segment="26"/>
-                <member segment="27"/>
-                <member segment="28"/>
-                <member segment="29"/>
-                <member segment="30"/>
-                <member segment="31"/>
-                <member segment="32"/>
-                <member segment="33"/>
-                <member segment="34"/>
-                <member segment="35"/>
-                <member segment="36"/>
-                <member segment="37"/>
-                <member segment="38"/>
-                <member segment="39"/>
-                <member segment="40"/>
-                <member segment="41"/>
-                <member segment="42"/>
-                <member segment="43"/>
-            </segmentGroup>
-            
-            <segmentGroup id="all">
-                <include segmentGroup="soma_group"/>
-                <include segmentGroup="dendrite_group"/>
-            </segmentGroup>
-            
+        
 
         </morphology>
     </cell>
