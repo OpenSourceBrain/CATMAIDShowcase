@@ -2,7 +2,7 @@
     <cell id="15053048" name="Cell">
         <morphology id="Skeleton_15053048">
             <segment id="0" name="15053050-15053054">
-                <proximal y="3.537326e+02" x="4.652044e+02" z="0.000000e+01" diameter="1"/>
+                <proximal y="0" x="0" z="0" diameter="10"/>
                 <distal y="3.539084e+02" x="4.652594e+02" z="4.500000e-01" diameter="1"/>
             </segment>
             <segment id="3" name="15053054-15053056">
