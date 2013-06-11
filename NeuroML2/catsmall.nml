@@ -211,6 +211,11 @@
                 <distal y="3.587118e+02" x="4.486769e+02" z="1.890000e+01" diameter="1"/>
             </segment>
             
+            
+            <segmentGroup id="soma_group">
+                <member segment="0"/>
+            </segmentGroup>
+            
 
         </morphology>
     </cell>
